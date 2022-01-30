@@ -1,0 +1,29 @@
+body {
+    background: #dfdfdf ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(34, 34,34);
+
+}
+
+.foto-principal{
+    width: 200px;
+
+    border: 2px solid #d41010; /* shorthand */
+    border-radius: 50%; /* serve para arredondar a borda */
+    margin: 30px; /* shorthand */
+    padding: 0px;
+    box-shadow: 0px 0px 10px #959593;
+}
+
+h1{
+    margin-bottom: 0;
+    letter-spacing: -1px;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: #727272;
+    font-weight: 100;
+    letter-spacing: -1px;
+}
